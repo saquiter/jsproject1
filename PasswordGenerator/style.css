@@ -1,0 +1,33 @@
+* {
+  width: 100%;
+  height: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#result {
+  text-align: center;
+}
+
+#copiedText {
+  text-align: center;
+  display: none;
+}
+
+#charLengthCount {
+  text-align: center;
+  font-size: 72px;
+}
+
+.mainBlock {
+  width: 100%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: Flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=style.css.map */
